@@ -1,0 +1,10 @@
+# Editors and other stuff
+.idea/
+.vscode/
+
+# Node dependencies
+node_modules/
+
+# Test stuff
+.env
+*.env
